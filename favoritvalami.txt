@@ -25,3 +25,4 @@ egyszer csak valahol történt valami aminek a következtében még több valami
 
 jelölések: sajnos nem jelölték semmire
 >>>>>>> bf0446a5244b28552c5dcccb382477339f59efc8
+detto
