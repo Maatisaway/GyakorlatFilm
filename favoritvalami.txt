@@ -1,3 +1,10 @@
 Kedvenc film
+<<<<<<< HEAD
 forgatási helyszín: Ott
 release date: 1994
+=======
+főszereplők: Bill Gates, Richard Stallman
+Bevétel: 10 milliárd kuvaiti dínár
+>>>>>>> 319fe1d566577611a48565934b8f9109ed9dfc22
+
+vágók nevei: ember1; ember2; ember3
