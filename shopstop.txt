@@ -1,4 +1,10 @@
 a
 forgatási helyszín: ott
+<<<<<<< HEAD
 fiatalok dolgoznak egy shopban és minden szar történik
 release date: 1994
+=======
+főszereplők: akárki és akárki párja
+>>>>>>> e08d98906500d747531902329e474bc070ff5a6b
+
+vágók nevei: ember1, ember2, ember3
