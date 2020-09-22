@@ -15,3 +15,14 @@ bevétel: 1 venezuellai wc papír
 
 jelölések: 600x oszkár, 800 grammy
 >>>>>>> bf0446a5244b28552c5dcccb382477339f59efc8
+
+release date: 2000
+forgatási helyszín: amott
+rendezők: rendezo1, rendezo2
+operatőr: operator1
+tartalom: hol volt hol nem volt sehol nem volt
+trailer: 
+forgatási helyszín: Bukarest
+zeneszerkesztő: Hans Zimmerman
+jelölések: Oscar Isaac
+Producerek: Producer1
