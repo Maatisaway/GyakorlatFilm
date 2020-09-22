@@ -13,6 +13,15 @@ Producerek: Producer1
 =======
 főszereplők: Bill Gates, Richard Stallman
 Bevétel: 10 milliárd kuvaiti dínár
+<<<<<<< HEAD
 >>>>>>> 319fe1d566577611a48565934b8f9109ed9dfc22
 
 vágók nevei: ember1; ember2; ember3
+=======
+
+film rövid leírása:
+
+egyszer csak valahol történt valami aminek a következtében még több valami történt és így lett kerek a történet a végére.
+
+jelölések: sajnos nem jelölték semmire
+>>>>>>> bf0446a5244b28552c5dcccb382477339f59efc8

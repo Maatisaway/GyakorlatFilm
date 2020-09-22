@@ -5,7 +5,13 @@ fiatalok dolgoznak egy shopban és minden szar történik
 release date: 1994
 =======
 főszereplők: akárki és akárki párja
+<<<<<<< HEAD
 >>>>>>> e08d98906500d747531902329e474bc070ff5a6b
 
 vágók nevei: ember1, ember2, ember3
 trailer: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+=======
+bevétel: 1 venezuellai wc papír
+
+jelölések: 600x oszkár, 800 grammy
+>>>>>>> bf0446a5244b28552c5dcccb382477339f59efc8
