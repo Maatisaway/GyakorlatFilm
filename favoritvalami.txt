@@ -1,7 +1,15 @@
 Kedvenc film
 <<<<<<< HEAD
-forgatási helyszín: Ott
 release date: 1994
+forgatási helyszín: Ott
+rendezők: rendezo1, rendezo2
+operatőr: operator1
+tartalom: hol volt hol nem volt
+trailer: 
+forgatási helyszín: Budapest
+zeneszerkesztő: Hans Zimmer
+jelölések: Oscar
+Producerek: Producer1
 =======
 főszereplők: Bill Gates, Richard Stallman
 Bevétel: 10 milliárd kuvaiti dínár
