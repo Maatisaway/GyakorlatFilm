@@ -1,3 +1,7 @@
 Kedvenc film
 főszereplők: Bill Gates, Richard Stallman
 Bevétel: 10 milliárd kuvaiti dínár
+
+film rövid leírása:
+
+egyszer csak valahol történt valami aminek a következtében még több valami történt és így lett kerek a történet a végére.
